@@ -6,7 +6,8 @@ This project designs and prototypes a production-grade, multi-agent AI system fo
 - **Azure IoT Edge & Hub**: Real-time sensor data ingestion.
 - **Azure Machine Learning**: RUL (Remaining Useful Life) and anomaly detection using the NASA Turbofan dataset.
 - **Azure AI Foundry**: Decision-making agent with safety-critical reasoning and RAG integration for technical manuals.
-- **Microsoft 365 Integration**: Automated work order creation via SharePoint Lists and interactive alerts in Microsoft Teams.
+- **Microsoft 365 Integration**: Automated workflows via **Power Automate**, interactive alerting in **Microsoft Teams**, and maintenance ticketing in **SharePoint Lists**.
+- **Power BI Dashboards**: Real-time operational visibility, safety KPI tracking, and fleet health heatmaps.
 
 ## Repository Structure
 - **`docs/blueprints/`**: Detailed technical design documents for each agent and the overall architecture.
