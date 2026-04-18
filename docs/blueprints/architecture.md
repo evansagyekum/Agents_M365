@@ -57,7 +57,7 @@ resource storageAccount 'Microsoft.Storage/storageAccounts@2022-09-01' = {
   }
 }
 
-// Azure OpenAI Service
+// Azure AI Foundry / OpenAI Service
 resource openAIService 'Microsoft.CognitiveServices/accounts@2023-05-01' = {
   name: 'oai-pm-agents'
   location: 'westeurope' // GDPR Compliance
